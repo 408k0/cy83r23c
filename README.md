@@ -1,7 +1,7 @@
 # Ciberseguridad
 ## 01-Sistemas-y-Arquitectura
-	- Temas: Arquitectura de Computadoras, Sistemas Operativos y Administración de Sistemas Operativos.
-	- Contenido: Scripts de automatización en Bash/PowerShell, gestión de permisos, configuración de redes locales y análisis de procesos.
+   Temas: Arquitectura de Computadoras, Sistemas Operativos y Administración de Sistemas Operativos.
+   Contenido: Scripts de automatización en Bash/PowerShell, gestión de permisos, configuración de redes locales y análisis de procesos.
 ## 02-Hardening-y-Seguridad-SO
 	- Temas: Seguridad de Sistemas Operativos.
 	- Contenido: Guías de bastión (hardening) en Linux/Windows, configuración de firewalls (UFW/iptables), políticas de grupo (GPO) y auditorías de sistema.
