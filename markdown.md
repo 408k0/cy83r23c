@@ -20,7 +20,8 @@ La nomenclatura (o sintaxis) de Markdown usa símbolos sencillos en texto plano 
 ## Enlaces e imágenes
 - Enlace: [Texto visible](https://ejemplo.com)
 - Imagen: ![Texto alternativo](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
-
+    - **Nota:**
+`Evitar el error "Error Fetching Resource" ocurre porque GitHub intenta descargar y almacenar en caché la imagen a través de sus propios servidores (://githubusercontent.com), y plataformas como Freepik o Flaticon bloquean este acceso directo para evitar el hotlinking (consumo de ancho de banda externo).`
 
 ## Citas, código y separadores
 - Cita en bloque: > Texto citado (usa >> para citas anidadas)
