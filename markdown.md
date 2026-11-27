@@ -1,9 +1,9 @@
-#Sintaxis Markdown
+##Sintaxis Markdown
 
 La nomenclatura (o sintaxis) de Markdown usa símbolos sencillos en texto plano para dar formato rápido a documentos
 
 ##Encabezados
-- # Título 1 hasta ###### Título 6
+- "#" Título 1 hasta "######" Título 6 (Sin comillas)
 
 ##Énfasis y formato de texto
 - Cursiva: *texto* o _texto_
